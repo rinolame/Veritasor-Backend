@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/optional-auth-behavior-914"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/optional-auth-behavior-914": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/optional-auth-behavior-914"
+  ]
+}
